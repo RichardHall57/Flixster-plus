@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">NY Times Best Seller</string>
-    <string name="buy_on_amazon">BUY ON AMAZON</string>
+    <string name="app_name">Flixter Plus</string>
     <string name="todo">TODO</string>
 </resources>
